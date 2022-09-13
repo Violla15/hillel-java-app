@@ -1,4 +1,4 @@
-package ua.ithillel.hillelwebapp.servise;
+package ua.ithillel.hillelwebapp.serviсe;
 
 import ua.ithillel.hillelwebapp.db.dao.CarDAO;
 import ua.ithillel.hillelwebapp.entity.Car;

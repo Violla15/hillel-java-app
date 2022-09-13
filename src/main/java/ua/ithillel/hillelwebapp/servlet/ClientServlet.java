@@ -6,7 +6,7 @@ import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import ua.ithillel.hillelwebapp.servise.ClientService;
+import ua.ithillel.hillelwebapp.serviсe.ClientService;
 
 import java.io.IOException;
 

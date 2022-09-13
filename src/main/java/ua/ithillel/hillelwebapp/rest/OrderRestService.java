@@ -3,7 +3,7 @@ package ua.ithillel.hillelwebapp.rest;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import ua.ithillel.hillelwebapp.entity.Order;
-import ua.ithillel.hillelwebapp.servise.OrderService;
+import ua.ithillel.hillelwebapp.serviсe.OrderService;
 
 import java.util.List;
 

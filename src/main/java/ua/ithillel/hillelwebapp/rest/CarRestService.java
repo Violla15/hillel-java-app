@@ -3,7 +3,7 @@ package ua.ithillel.hillelwebapp.rest;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import ua.ithillel.hillelwebapp.entity.Car;
-import ua.ithillel.hillelwebapp.servise.CarService;
+import ua.ithillel.hillelwebapp.serviсe.CarService;
 
 import java.util.List;
 
